@@ -20,7 +20,7 @@ export default function Ejercicio04() {
           <div className="col-12">
             <h2 className="h4 mt-4">
               Ejercicio 04 - Saludo
-            </h2>
+            </h2> 
             <hr />
             </div>
             <div className="col-12 text-center">
